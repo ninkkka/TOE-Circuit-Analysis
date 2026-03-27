@@ -18,8 +18,8 @@
 ## Структура репозитория
 TOE-Signal-Analysis/<br>
 ├── README.md<br>
-├── Report.pdf<br>  # Пояснительная записка
-└── Figures/<br>  # Графики и визуализации
+├── Report.pdf # Пояснительная записка<br> 
+└── Figures/  # Графики и визуализации<br> 
    ├── bode_plot.png<br>
    ├── input_spectrum.png<br>
    ├── output_spectrum.png<br>
