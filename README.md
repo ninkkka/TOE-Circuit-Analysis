@@ -23,4 +23,4 @@ TOE-Signal-Analysis/<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── bode_plot.png<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── input_spectrum.png<br>
 &nbsp;&nbsp;&nbsp;&nbsp;├── output_spectrum.png<br>
-&nbsp;&nbsp;&nbsp;&nbsp;└── fourier_approx.png
+&ensp;&ensp;&ensp;&ensp;└── fourier_approx.png
