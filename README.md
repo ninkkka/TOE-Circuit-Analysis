@@ -20,7 +20,7 @@ TOE-Signal-Analysis/<br>
 ├── README.md<br>
 ├── Report.pdf # Пояснительная записка<br> 
 └── Figures/  # Графики и визуализации<br> 
-   ├── bode_plot.png<br>
+<p>   ├── bode_plot.png<br></p>
    ├── input_spectrum.png<br>
    ├── output_spectrum.png<br>
    └── fourier_approx.png
