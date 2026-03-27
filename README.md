@@ -16,11 +16,11 @@
 - Проведено сопоставление спектров входного и выходного сигналов для оценки качества фильтрации
 - 
 ## Структура репозитория
-TOE-Signal-Analysis/
-├── README.md
-├── Report.pdf                   # Пояснительная записка
-└── Figures/                     # Графики и визуализации
-   ├── bode_plot.png
-   ├── input_spectrum.png
-   ├── output_spectrum.png
+TOE-Signal-Analysis/<br>
+├── README.md<br>
+├── Report.pdf<br>  # Пояснительная записка
+└── Figures/<br>  # Графики и визуализации
+   ├── bode_plot.png<br>
+   ├── input_spectrum.png<br>
+   ├── output_spectrum.png<br>
    └── fourier_approx.png
